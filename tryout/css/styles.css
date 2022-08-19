@@ -1,0 +1,32 @@
+h1 {
+    font-size: 50px;
+}
+
+img {
+    height: 150px;
+}
+
+.bacon-img {
+    background-color: green;
+}
+
+.garox-img {
+    background-color: aqua;
+    border-radius: 100%;
+}
+
+.garox-paragraph {
+    font-family: Verdana;
+}
+
+.bacon-paragraph {
+    font-family: Helvetica;
+}
+
+#bacon-heading {
+    color: rgb(54, 159, 159);
+}
+
+#garox-heading {
+    color:rgb(45, 146, 49);
+}
